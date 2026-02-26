@@ -1,7 +1,6 @@
 ## Hi, I’m Vlad 👋
 
-Software Engineer with 9+ years of experience, primarily in Data Platforms.
-Currently working on the design and development of Kubernetes-based data platform components that support data engineering workloads such as Spark and Airflow.
+Software Engineer specializing in Data Platforms and distributed systems. I design and build Kubernetes-based platform components that support data engineering workloads such as Spark and Airflow.
 
 ---
 
