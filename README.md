@@ -1,6 +1,6 @@
 ## Hi, I’m Vlad 👋
 
-Software Engineer specializing in Data Platforms and distributed systems. I design and build Kubernetes-based platform components that support data engineering workloads such as Spark and Airflow.
+Software Engineer focused on Data Platform Engineering. I design and build Kubernetes-based platform components that support data engineering workloads such as Spark and Airflow.
 
 ---
 
