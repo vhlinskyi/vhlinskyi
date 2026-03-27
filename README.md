@@ -18,7 +18,6 @@ While most of my recent work is in private enterprise repositories, I have a his
 
 ### 🛠 Tech Stack
 
-- **Languages:** Go, Java, Scala, Python
-- **Cloud & Infra:** Kubernetes, AWS, Azure, Terraform, Helm, Istio
-- **Data Processing:** Spark, Hadoop
-- **Workflow Orchestration:** Airflow
+- Go, Java, Scala, Python
+- Kubernetes, AWS, Azure, Helm, Istio
+- Airflow, Spark, Hadoop
