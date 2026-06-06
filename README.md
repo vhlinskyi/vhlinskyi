@@ -6,7 +6,7 @@ Software Engineer focused on Data Platform Engineering. I design and build Kuber
 
 ### 🌍 Public Contributions
 
-While most of my recent work is in private enterprise repositories, I have a history of contributing to the Apache ecosystem and other projects under several professional handles.
+While most of my recent work is in private enterprise repositories, I have a history of contributing to the Apache ecosystem and other projects.
 
 - [Apache Spark](https://github.com/apache/spark): SHS race condition fix and ML event listener change. [View PRs](https://github.com/search?q=repo%3Aapache%2Fspark%20is%3Apr%20author%3Avladglinsky%20author%3Avladhlinsky%20&type=pullrequests).
 - [Apache Atlas](https://github.com/apache/atlas): Model updates and bug fixes. [View PRs](https://github.com/apache/atlas/pulls?q=is%3Apr+author%3Avladhlinsky+is%3Aclosed).
